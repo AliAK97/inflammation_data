@@ -1,0 +1,12 @@
+LICENCE.md
+README.md
+pyproject.toml
+inflammation/__init__.py
+inflammation/models.py
+inflammation/views.py
+python_intermediate_inflammation.egg-info/PKG-INFO
+python_intermediate_inflammation.egg-info/SOURCES.txt
+python_intermediate_inflammation.egg-info/dependency_links.txt
+python_intermediate_inflammation.egg-info/top_level.txt
+tests/test_models.py
+tests/test_patient.py
